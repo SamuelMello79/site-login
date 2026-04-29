@@ -87,3 +87,19 @@ button:hover {
     color: #ff5252;
     font-weight: bold;
 }
+
+#cadastroForm {
+    display: flex;
+    flex-direction: column;
+}
+
+#cadastroForm input {
+    padding: 5px;
+    margin: 5px 0 5px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+#cadastroForm button {
+    margin-top: 10px;
+}
